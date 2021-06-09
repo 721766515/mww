@@ -1,0 +1,11 @@
+{
+    "name": "mww",
+    "description": "Deploy mww on Heroku.",
+    "keywords": ["mww"],
+    "env": {
+      
+    },
+    "website": "",
+    "repository": "https://github.com/721766515/mww",
+    "stack": "container"
+}
